@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=OUT_7 Pin=UO-12
+Removed Pin From Net: NetName=OUT_6 Pin=UO-13
+Removed Pin From Net: NetName=OUT_5 Pin=UO-14
+Removed Pin From Net: NetName=OUT_4 Pin=UO-15
+Removed Pin From Net: NetName=OUT_3 Pin=UO-16
+Removed Pin From Net: NetName=OUT_2 Pin=UO-17
+Removed Pin From Net: NetName=OUT_1 Pin=UO-18
+Removed Pin From Net: NetName=OUT_0 Pin=UO-20
+Added Pin To Net: NetName=OUT_0 Pin=UO-12
+Added Pin To Net: NetName=OUT_1 Pin=UO-13
+Added Pin To Net: NetName=OUT_2 Pin=UO-14
+Added Pin To Net: NetName=OUT_3 Pin=UO-15
+Added Pin To Net: NetName=OUT_4 Pin=UO-16
+Added Pin To Net: NetName=OUT_5 Pin=UO-17
+Added Pin To Net: NetName=OUT_6 Pin=UO-18
+Added Pin To Net: NetName=OUT_7 Pin=UO-20
+Added Room: Name=IO_Driver1616

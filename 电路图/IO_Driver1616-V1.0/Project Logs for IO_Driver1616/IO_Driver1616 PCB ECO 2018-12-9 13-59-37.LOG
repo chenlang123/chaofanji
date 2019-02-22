@@ -1,0 +1,4 @@
+Added Component: Designator=DO0(LED-1)
+Added Pin To Net: NetName=NetDO0_1 Pin=DO0-1
+Added Pin To Net: NetName=NetDO0_2 Pin=DO0-2
+Added Member To Class: ClassName=IO_Driver1616 Member=Component DO0 LED

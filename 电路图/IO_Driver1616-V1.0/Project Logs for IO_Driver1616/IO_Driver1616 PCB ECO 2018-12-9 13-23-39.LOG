@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=AC1 Pin=DP6-1
+Removed Pin From Net: NetName=AC0 Pin=DP7-1
+Removed Pin From Net: NetName=AC1 Pin=DP8-2
+Removed Pin From Net: NetName=AC0 Pin=DP9-2
+Removed Pin From Net: NetName=DIN_GND Pin=UP1-0
+Removed Pin From Net: NetName=DOUT_GND Pin=UP2-0
+Added Pin To Net: NetName=AC3 Pin=DP6-1
+Added Pin To Net: NetName=AC2 Pin=DP7-1
+Added Pin To Net: NetName=AC3 Pin=DP8-2
+Added Pin To Net: NetName=AC2 Pin=DP9-2
+Added Room: Name=IO_Driver1616

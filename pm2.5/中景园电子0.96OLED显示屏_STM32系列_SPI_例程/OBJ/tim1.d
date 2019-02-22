@@ -1,0 +1,17 @@
+..\obj\tim1.o: ..\SYSTEM\delay\TIM1.c
+..\obj\tim1.o: ..\SYSTEM\delay\TIM.h
+..\obj\tim1.o: ..\SYSTEM\sys\sys.h
+..\obj\tim1.o: ..\USER\stm32f10x.h
+..\obj\tim1.o: ..\CORE\core_cm3.h
+..\obj\tim1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\tim1.o: ..\USER\system_stm32f10x.h
+..\obj\tim1.o: ..\USER\stm32f10x_conf.h
+..\obj\tim1.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\tim1.o: ..\USER\stm32f10x.h
+..\obj\tim1.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\tim1.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\tim1.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\tim1.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\tim1.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\tim1.o: ..\HARDWARE\STEP_MOTION\STEP_MOTION.h
+..\obj\tim1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

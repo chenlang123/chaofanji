@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=D+3.3V Pin=J1-22
+Added Pin To Net: NetName=D+3.3V Pin=UO-2
+Change Net Name : Old Net Name=D+3.3V New Net Name=VCC+3.3V

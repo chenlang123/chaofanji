@@ -1,0 +1,32 @@
+Added Component: Designator=J2(KF7.62-40p)
+Added Pin To Net: NetName=AC0 Pin=J2-1
+Added Pin To Net: NetName=AC1 Pin=J2-2
+Added Pin To Net: NetName=OUT_GND Pin=J2-3
+Added Pin To Net: NetName=OUT_COM+ Pin=J2-4
+Added Pin To Net: NetName=I/O_IN0 Pin=J2-5
+Added Pin To Net: NetName=I/O_IN1 Pin=J2-6
+Added Pin To Net: NetName=I/O_IN2 Pin=J2-7
+Added Pin To Net: NetName=I/O_IN3 Pin=J2-8
+Added Pin To Net: NetName=I/O_IN4 Pin=J2-9
+Added Pin To Net: NetName=I/O_IN5 Pin=J2-10
+Added Pin To Net: NetName=I/O_IN6 Pin=J2-11
+Added Pin To Net: NetName=I/O_IN7 Pin=J2-12
+Added Pin To Net: NetName=I/O_IN8 Pin=J2-13
+Added Pin To Net: NetName=I/O_IN9 Pin=J2-14
+Added Pin To Net: NetName=I/O_IN10 Pin=J2-15
+Added Pin To Net: NetName=I/O_IN11 Pin=J2-16
+Added Pin To Net: NetName=AC2 Pin=J2-21
+Added Pin To Net: NetName=AC3 Pin=J2-22
+Added Pin To Net: NetName=IN_GND Pin=J2-23
+Added Pin To Net: NetName=IN_COM+ Pin=J2-24
+Added Pin To Net: NetName=OUT0 Pin=J2-25
+Added Pin To Net: NetName=OUT1 Pin=J2-26
+Added Pin To Net: NetName=OUT2 Pin=J2-27
+Added Pin To Net: NetName=OUT3 Pin=J2-28
+Added Pin To Net: NetName=OUT4 Pin=J2-29
+Added Pin To Net: NetName=OUT5 Pin=J2-30
+Added Pin To Net: NetName=OUT6 Pin=J2-31
+Added Pin To Net: NetName=OUT7 Pin=J2-32
+Added Pin To Net: NetName=OUT8 Pin=J2-33
+Added Pin To Net: NetName=OUT9 Pin=J2-34
+Added Member To Class: ClassName=IO_Driver1616 Member=Component J2 CON40

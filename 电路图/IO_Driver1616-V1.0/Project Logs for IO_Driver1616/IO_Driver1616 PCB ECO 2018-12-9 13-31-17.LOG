@@ -1,0 +1,4 @@
+Added Component: Designator=LP2(L-5*5)
+Added Pin To Net: NetName=NetDP10_2 Pin=LP2-1
+Added Pin To Net: NetName=DOUT+5V Pin=LP2-2
+Added Member To Class: ClassName=IO_Driver1616 Member=Component LP2 33uH

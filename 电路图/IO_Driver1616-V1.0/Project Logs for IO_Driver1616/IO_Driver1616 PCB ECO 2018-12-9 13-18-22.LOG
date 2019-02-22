@@ -1,0 +1,186 @@
+Removed Pin From Net: NetName=OUT4 Pin=DO41-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=DO41-2
+Removed Pin From Net: NetName=OUT5 Pin=DO51-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=DO51-2
+Removed Pin From Net: NetName=OUT6 Pin=DO61-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=DO61-2
+Removed Pin From Net: NetName=OUT7 Pin=DO71-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=DO71-2
+Removed Pin From Net: NetName=OUT8 Pin=DO81-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=DO81-2
+Removed Pin From Net: NetName=OUT9 Pin=DO91-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=DO91-2
+Removed Pin From Net: NetName=OUT_COM+ Pin=RO41-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=RO51-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=RO61-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=RO71-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=RO81-1
+Removed Pin From Net: NetName=OUT_COM+ Pin=RO91-1
+Removed Pin From Net: NetName=OUT_GND Pin=UO41-3
+Removed Pin From Net: NetName=OUT_GND Pin=UO51-3
+Removed Pin From Net: NetName=OUT_GND Pin=UO61-3
+Removed Pin From Net: NetName=OUT_GND Pin=UO71-3
+Removed Pin From Net: NetName=OUT8 Pin=UO81-2
+Removed Pin From Net: NetName=OUT8 Pin=UO81-2
+Removed Pin From Net: NetName=OUT_GND Pin=UO81-3
+Removed Pin From Net: NetName=OUT9 Pin=UO91-2
+Removed Pin From Net: NetName=OUT9 Pin=UO91-2
+Removed Pin From Net: NetName=OUT_GND Pin=UO91-3
+Removed Pin From Net: NetName=I/O OUT_0 Pin=UOUT0-2
+Removed Pin From Net: NetName=I/O OUT_1 Pin=UOUT1-2
+Removed Pin From Net: NetName=I/O OUT_2 Pin=UOUT2-2
+Removed Pin From Net: NetName=I/O OUT_3 Pin=UOUT3-2
+Removed Pin From Net: NetName=I/O OUT_4 Pin=UOUT4-2
+Removed Pin From Net: NetName=I/O OUT_5 Pin=UOUT5-2
+Removed Pin From Net: NetName=I/O OUT_6 Pin=UOUT6-2
+Removed Pin From Net: NetName=I/O OUT_7 Pin=UOUT7-2
+Removed Pin From Net: NetName=I/O OUT_8 Pin=UOUT8-2
+Removed Pin From Net: NetName=I/O OUT_9 Pin=UOUT9-2
+Removed Member From Class: ClassName=IO_Driver1616 Member=DO8
+Removed Member From Class: ClassName=IO_Driver1616 Member=DO9
+Removed Member From Class: ClassName=IO_Driver1616 Member=DO41
+Removed Member From Class: ClassName=IO_Driver1616 Member=DO51
+Removed Member From Class: ClassName=IO_Driver1616 Member=DO61
+Removed Member From Class: ClassName=IO_Driver1616 Member=DO71
+Removed Member From Class: ClassName=IO_Driver1616 Member=DO81
+Removed Member From Class: ClassName=IO_Driver1616 Member=DO91
+Removed Member From Class: ClassName=IO_Driver1616 Member=RO8
+Removed Member From Class: ClassName=IO_Driver1616 Member=RO9
+Removed Member From Class: ClassName=IO_Driver1616 Member=RO81
+Removed Member From Class: ClassName=IO_Driver1616 Member=RO91
+Removed Member From Class: ClassName=IO_Driver1616 Member=UO81
+Removed Member From Class: ClassName=IO_Driver1616 Member=UO91
+Removed Member From Class: ClassName=IO_Driver1616 Member=UOUT8
+Removed Member From Class: ClassName=IO_Driver1616 Member=UOUT9
+Change Component Footprint: Designator=U1 Old Footprint=SO4 New Footprint=DIP8
+Change Component Footprint: Designator=U2 Old Footprint=SO4 New Footprint=DIP8
+Change Component Footprint: Designator=U3 Old Footprint=SO4 New Footprint=DIP8
+Change Component Designator: OldDesignator=C1 NewDesignator=CP1
+Change Component Designator: OldDesignator=CP1 NewDesignator=CP2
+Change Component Designator: OldDesignator=D49 NewDesignator=DP1
+Change Component Designator: OldDesignator=D50 NewDesignator=DP2
+Change Component Designator: OldDesignator=D51 NewDesignator=DP5
+Change Component Designator: OldDesignator=D52 NewDesignator=DP3
+Change Component Designator: OldDesignator=D53 NewDesignator=DP4
+Change Component Designator: OldDesignator=U33 NewDesignator=UP1
+Added Component: Designator=*(TXS0108E)
+Added Component: Designator=CP3(RB.2/.4)
+Added Component: Designator=CP4(7343)
+Added Component: Designator=DP6(4007)
+Added Component: Designator=DP7(4007)
+Added Component: Designator=DP8(4007)
+Added Component: Designator=DP9(4007)
+Added Component: Designator=DP10(sma)
+Added Component: Designator=RO42(0805)
+Added Component: Designator=RO52(0805)
+Added Component: Designator=RO62(0805)
+Added Component: Designator=RO72(0805)
+Added Component: Designator=U0(DIP8)
+Added Component: Designator=UP2(HRP5)
+Added Pin To Net: NetName=AC1 Pin=DP6-1
+Added Pin To Net: NetName=AC0 Pin=DP7-1
+Added Pin To Net: NetName=AC1 Pin=DP8-2
+Added Pin To Net: NetName=AC0 Pin=DP9-2
+Added Pin To Net: NetName=OUT4 Pin=RO42-2
+Added Pin To Net: NetName=OUT5 Pin=RO52-2
+Added Pin To Net: NetName=OUT6 Pin=RO62-2
+Added Pin To Net: NetName=OUT7 Pin=RO72-2
+Added Pin To Net: NetName=INCOM1 Pin=U0-1
+Added Pin To Net: NetName=NetRIN0_1 Pin=U0-2
+Added Pin To Net: NetName=INCOM1 Pin=U0-3
+Added Pin To Net: NetName=NetRIN1_1 Pin=U0-4
+Added Pin To Net: NetName=D_GND Pin=U0-5
+Added Pin To Net: NetName=I/O IN_1 Pin=U0-6
+Added Pin To Net: NetName=D_GND Pin=U0-7
+Added Pin To Net: NetName=I/O IN_0 Pin=U0-8
+Added Pin To Net: NetName=D_GND Pin=U1-5
+Added Pin To Net: NetName=I/O IN_3 Pin=U1-6
+Added Pin To Net: NetName=D_GND Pin=U1-7
+Added Pin To Net: NetName=I/O IN_2 Pin=U1-8
+Added Pin To Net: NetName=D_GND Pin=U2-5
+Added Pin To Net: NetName=I/O IN_5 Pin=U2-6
+Added Pin To Net: NetName=D_GND Pin=U2-7
+Added Pin To Net: NetName=I/O IN_4 Pin=U2-8
+Added Pin To Net: NetName=D_GND Pin=U3-5
+Added Pin To Net: NetName=I/O IN_7 Pin=U3-6
+Added Pin To Net: NetName=D_GND Pin=U3-7
+Added Pin To Net: NetName=I/O IN_6 Pin=U3-8
+Change Net Name : Old Net Name=D1+5V New Net Name=DIN+5V
+Change Net Name : Old Net Name=D1_GND New Net Name=DIN_GND
+Change Net Name : Old Net Name=NetD51_2 New Net Name=NetDP5_2
+Added Pin To Net: NetName=DOUT+5V Pin=CP4-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO0-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO1-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO2-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO3-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO4-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO5-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO6-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO7-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO41-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO42-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO61-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO62-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO71-1
+Added Pin To Net: NetName=DOUT+5V Pin=RO72-1
+Added Pin To Net: NetName=DOUT+5V Pin=UP2-4
+Added Net: Name=DOUT+5V
+Added Pin To Net: NetName=DOUT_GND Pin=CP3-2
+Added Pin To Net: NetName=DOUT_GND Pin=CP4-2
+Added Pin To Net: NetName=DOUT_GND Pin=DP8-1
+Added Pin To Net: NetName=DOUT_GND Pin=DP9-1
+Added Pin To Net: NetName=DOUT_GND Pin=DP10-1
+Added Pin To Net: NetName=DOUT_GND Pin=UO41-3
+Added Pin To Net: NetName=DOUT_GND Pin=UO51-3
+Added Pin To Net: NetName=DOUT_GND Pin=UO61-3
+Added Pin To Net: NetName=DOUT_GND Pin=UO71-3
+Added Pin To Net: NetName=DOUT_GND Pin=UP2-3
+Added Pin To Net: NetName=DOUT_GND Pin=UP2-5
+Added Net: Name=DOUT_GND
+Added Pin To Net: NetName=GND Pin=J1-24
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCP1_1 Pin=CP1-1
+Added Pin To Net: NetName=NetCP1_1 Pin=DP1-2
+Added Pin To Net: NetName=NetCP1_1 Pin=DP2-2
+Added Pin To Net: NetName=NetCP1_1 Pin=UP1-1
+Added Net: Name=NetCP1_1
+Added Pin To Net: NetName=NetCP3_1 Pin=CP3-1
+Added Pin To Net: NetName=NetCP3_1 Pin=DP6-2
+Added Pin To Net: NetName=NetCP3_1 Pin=DP7-2
+Added Pin To Net: NetName=NetCP3_1 Pin=UP2-1
+Added Net: Name=NetCP3_1
+Added Pin To Net: NetName=NetDP10_2 Pin=DP10-2
+Added Pin To Net: NetName=NetDP10_2 Pin=UP2-2
+Added Net: Name=NetDP10_2
+Added Pin To Net: NetName=OUT_0 Pin=UOUT0-2
+Added Net: Name=OUT_0
+Added Pin To Net: NetName=OUT_1 Pin=UOUT1-2
+Added Net: Name=OUT_1
+Added Pin To Net: NetName=OUT_2 Pin=UOUT2-2
+Added Net: Name=OUT_2
+Added Pin To Net: NetName=OUT_3 Pin=UOUT3-2
+Added Net: Name=OUT_3
+Added Pin To Net: NetName=OUT_4 Pin=UOUT4-2
+Added Net: Name=OUT_4
+Added Pin To Net: NetName=OUT_5 Pin=UOUT5-2
+Added Net: Name=OUT_5
+Added Pin To Net: NetName=OUT_6 Pin=UOUT6-2
+Added Net: Name=OUT_6
+Added Pin To Net: NetName=OUT_7 Pin=UOUT7-2
+Added Net: Name=OUT_7
+Added Pin To Net: NetName=VCC+3.3V Pin=J1-22
+Added Net: Name=VCC+3.3V
+Added Member To Class: ClassName=IO_Driver1616 Member=Component * TXS0108E
+Added Member To Class: ClassName=IO_Driver1616 Member=Component CP3 470u/50V
+Added Member To Class: ClassName=IO_Driver1616 Member=Component CP4 100u/25V
+Added Member To Class: ClassName=IO_Driver1616 Member=Component DP6 DIODE
+Added Member To Class: ClassName=IO_Driver1616 Member=Component DP7 DIODE
+Added Member To Class: ClassName=IO_Driver1616 Member=Component DP8 DIODE
+Added Member To Class: ClassName=IO_Driver1616 Member=Component DP9 DIODE
+Added Member To Class: ClassName=IO_Driver1616 Member=Component DP10 1N5819
+Added Member To Class: ClassName=IO_Driver1616 Member=Component RO42 3K
+Added Member To Class: ClassName=IO_Driver1616 Member=Component RO52 3K
+Added Member To Class: ClassName=IO_Driver1616 Member=Component RO62 3K
+Added Member To Class: ClassName=IO_Driver1616 Member=Component RO72 3K
+Added Member To Class: ClassName=IO_Driver1616 Member=Component U0 TLP250
+Added Member To Class: ClassName=IO_Driver1616 Member=Component UP2 LM2596-5

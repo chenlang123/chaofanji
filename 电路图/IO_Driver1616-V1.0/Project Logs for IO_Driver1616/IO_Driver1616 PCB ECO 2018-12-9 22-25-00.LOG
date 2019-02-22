@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=IO_Driver1616 Member=UO1
+Added Component: Designator=*(TXS0108E)
+Added Pin To Net: NetName=I/O OUT_0 Pin=*-1
+Added Member To Class: ClassName=IO_Driver1616 Member=Component * TXS0108E

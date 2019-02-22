@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetRIN0_1 Pin=U0-2
+Removed Pin From Net: NetName=NetRIN1_1 Pin=U0-4
+Removed Pin From Net: NetName=I/O IN_1 Pin=U0-6
+Removed Pin From Net: NetName=I/O IN_0 Pin=U0-8
+Added Pin To Net: NetName=NetRIN1_1 Pin=U0-2
+Added Pin To Net: NetName=NetRIN0_1 Pin=U0-4
+Added Pin To Net: NetName=I/O IN_0 Pin=U0-6
+Added Pin To Net: NetName=I/O IN_1 Pin=U0-8

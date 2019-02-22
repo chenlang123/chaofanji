@@ -1,0 +1,16 @@
+..\obj\step_motion.o: ..\HARDWARE\STEP_MOTION\STEP_MOTION.c
+..\obj\step_motion.o: ..\HARDWARE\STEP_MOTION\STEP_MOTION.h
+..\obj\step_motion.o: ..\SYSTEM\sys\sys.h
+..\obj\step_motion.o: ..\USER\stm32f10x.h
+..\obj\step_motion.o: ..\CORE\core_cm3.h
+..\obj\step_motion.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\step_motion.o: ..\USER\system_stm32f10x.h
+..\obj\step_motion.o: ..\USER\stm32f10x_conf.h
+..\obj\step_motion.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\step_motion.o: ..\USER\stm32f10x.h
+..\obj\step_motion.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\step_motion.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\step_motion.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\step_motion.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\step_motion.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\step_motion.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

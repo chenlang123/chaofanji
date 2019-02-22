@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=I/O OUT_0 Pin=*-1
+Removed Member From Class: ClassName=IO_Driver1616 Member=*
+Added Component: Designator=UO(TXS0108E)
+Added Pin To Net: NetName=I/O OUT_0 Pin=UO-1
+Added Pin To Net: NetName=VCC+3.3V Pin=UO-2
+Added Pin To Net: NetName=I/O OUT_1 Pin=UO-3
+Added Pin To Net: NetName=I/O OUT_2 Pin=UO-4
+Added Pin To Net: NetName=I/O OUT_3 Pin=UO-5
+Added Pin To Net: NetName=I/O OUT_4 Pin=UO-6
+Added Pin To Net: NetName=I/O OUT_5 Pin=UO-7
+Added Pin To Net: NetName=I/O OUT_6 Pin=UO-8
+Added Pin To Net: NetName=I/O OUT_7 Pin=UO-9
+Added Pin To Net: NetName=I/O OUT_8 Pin=UO-10
+Added Pin To Net: NetName=GND Pin=UO-11
+Added Pin To Net: NetName=OUT_7 Pin=UO-12
+Added Pin To Net: NetName=OUT_6 Pin=UO-13
+Added Pin To Net: NetName=OUT_5 Pin=UO-14
+Added Pin To Net: NetName=OUT_4 Pin=UO-15
+Added Pin To Net: NetName=OUT_3 Pin=UO-16
+Added Pin To Net: NetName=OUT_2 Pin=UO-17
+Added Pin To Net: NetName=OUT_1 Pin=UO-18
+Added Pin To Net: NetName=DOUT+5V Pin=UO-19
+Added Pin To Net: NetName=OUT_0 Pin=UO-20
+Added Member To Class: ClassName=IO_Driver1616 Member=Component UO TXS0108E

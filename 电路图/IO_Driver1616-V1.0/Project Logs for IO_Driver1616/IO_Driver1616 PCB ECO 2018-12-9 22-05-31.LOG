@@ -1,0 +1,11 @@
+Added Component: Designator=U4(DIP8)
+Added Pin To Net: NetName=INCOM1 Pin=U4-1
+Added Pin To Net: NetName=NetRIN8_1 Pin=U4-2
+Added Pin To Net: NetName=INCOM1 Pin=U4-3
+Added Pin To Net: NetName=NetRIN9_1 Pin=U4-4
+Added Pin To Net: NetName=D_GND Pin=U4-5
+Added Pin To Net: NetName=I/O IN_9 Pin=U4-6
+Added Pin To Net: NetName=D_GND Pin=U4-7
+Added Pin To Net: NetName=I/O IN_8 Pin=U4-8
+Added Member To Class: ClassName=IO_Driver1616 Member=Component U4 TLP250
+Added Room: Name=IO_Driver1616

@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=D0 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=D1 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=D2 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=D3 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=D4 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=D5 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=D6 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=D7 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=D8 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=D9 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=DO1 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=DO2 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=DO3 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=DO4 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=DO5 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=DO6 Old Footprint=LED New Footprint=LED-1
+Change Component Footprint: Designator=DO7 Old Footprint=LED New Footprint=LED-1
+Added Room: Name=IO_Driver1616
